@@ -1,5 +1,18 @@
-# Summer School - Speaking Data
-# Artificial Neural Networks: From Perceptrons to Transformers
+<div align="center">
+    <h3 align="center">
+        Summer School - Speaking Data
+    <h3>
+</div>
+
+<h1 align="center">
+     Artificial Neural Networks: From Perceptrons to Transformers
+</h1>
+
+<div align="center">
+  <a href="https://www.researchgate.net/profile/Mauro-Bruno-2">
+    <img src="https://img.shields.io/badge/Mauro%20Bruno-white?logo=researchgate" alt="Mauro Bruno">
+  </a>
+</div>
 
 ## Course Description
 
