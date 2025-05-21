@@ -31,11 +31,10 @@ In the final section, we explore how modern AI systems process and generate lang
 
 ---
 
-**Author**: [Mauro Bruno](https://www.researchgate.net/profile/Mauro-Bruno-2)  
-*Italian National Institute of Statistics (Istat)*
-
+**By the end of the course**, students will have built a conceptual bridge from biological neurons to the architecture of LLMs — gaining both theoretical foundations and practical insights into how machines understand and generate language.
 
 ---
 
-**By the end of the course**, students will have built a conceptual bridge from biological neurons to the architecture of LLMs — gaining both theoretical foundations and practical insights into how machines understand and generate language.
+**Author**: [Mauro Bruno](https://www.researchgate.net/profile/Mauro-Bruno-2)  
+*Italian National Institute of Statistics (Istat)*
 
