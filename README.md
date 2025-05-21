@@ -8,7 +8,8 @@
 </div>
 
 <h1 align="center">
-     Neural Networks Unveiled: From Perceptrons to Transformers
+     Neural Networks Unveiled: 
+    From Perceptrons to Transformers
 </h1>
 
 ## Course Description
