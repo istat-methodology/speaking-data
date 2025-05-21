@@ -1,4 +1,7 @@
 <div align="center">
+    <img src="resources/logo.png" alt="Summer School - Speaking Data Logo">
+</div>
+<div align="center">
     <h3 align="center">
         Summer School - Speaking Data
     <h3>
