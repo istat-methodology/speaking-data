@@ -11,12 +11,6 @@
      Neural Networks Unveiled: From Perceptrons to Transformers
 </h1>
 
-<div align="center">
-  <a href="https://www.researchgate.net/profile/Mauro-Bruno-2">
-    <img src="https://img.shields.io/badge/Mauro%20Bruno-white?logo=researchgate" alt="Mauro Bruno">
-  </a>
-</div>
-
 ## Course Description
 
 This course offers a structured and accessible introduction to **Artificial Neural Networks (ANNs)**, guiding students through the fundamental concepts and architectures that form the basis of modern AI systems — including **Large Language Models (LLMs)** such as ChatGPT. The course is designed to help students understand how machines learn from data, and how this learning process evolves from recognizing handwritten digits to generating coherent, human-like text.
@@ -34,6 +28,12 @@ Here, we examine the challenge of modeling **sequential data**, such as text or 
 
 ### 4. Language Models
 In the final section, we explore how modern AI systems process and generate language. We begin with tokenization and word embeddings, then introduce the limitations of RNN-based language models and the emergence of attention mechanisms. This leads to a detailed look at the **Transformer architecture**, the foundation of today’s state-of-the-art models like BERT and GPT. The section concludes with an overview of how models like ChatGPT are trained and applied in real-world scenarios.
+
+---
+
+**Author**: [Mauro Bruno](https://www.researchgate.net/profile/Mauro-Bruno-2)  
+*Italian National Institute of Statistics (Istat)*
+
 
 ---
 
