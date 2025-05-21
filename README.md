@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">
-     Artificial Neural Networks: From Perceptrons to Transformers
+     Neural Networks Unveiled: From Perceptrons to Transformers
 </h1>
 
 <div align="center">
