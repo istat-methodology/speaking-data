@@ -1,5 +1,4 @@
 # Summer School - Speaking Data
-
 # Artificial Neural Networks: From Perceptrons to Transformers
 
 ## Course Description
